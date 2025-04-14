@@ -1,0 +1,365 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "333f26e799e40cbfcdddabf6bda886936139785b67ae9228df38134e16f7bad6"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/antique-atlas.toml"
+hash = "06e74e49828e6cb3f85d2920291080eb8ed2eea55feb52cf0fe03f61c913e7b3"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
+
+[[files]]
+file = "config/beansbackpacks-client.json5"
+hash = "fd9c6e1ea0de05c223016c8885ddd84370c325328387f560154b8860db174b2d"
+
+[[files]]
+file = "config/bocchud.json"
+hash = "899fa42541fb5d0d7a42e76728a08530a818bceb1b0f29c22f6e1ccd8f4c4446"
+
+[[files]]
+file = "config/bocchud/localhost.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/bocchud/localhost_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/bocchud/localhost_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/bocchud/playminecraft.crazyhippos713.com.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/bocchud/playminecraft.crazyhippos713.com_dim_minecraft_overworld.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/bocchud/playminecraft.crazyhippos713.com_dim_minecraft_the_end.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/bocchud/playminecraft.crazyhippos713.com_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/carryon-client.toml"
+hash = "099145bca17d3a362f8c5078438c29a14db444ee354757d42aff232094e8a10c"
+
+[[files]]
+file = "config/carryon-common.toml"
+hash = "e309110397629770f5080b9ba81ab26e9476250c4372a051ece7c13557370f29"
+
+[[files]]
+file = "config/connector.json"
+hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "e08534fd349021a78c68ee3ace46bdbf2f8d28c50ed6a435431aa0cb2d047fee"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/create_central_kitchen-common-1.toml.bak"
+hash = "b7510efb91bfc3fdad23399904833f798b7f1d021af78934aaa45c55ee6476f8"
+
+[[files]]
+file = "config/create_central_kitchen-common-2.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/create_central_kitchen-common-3.toml.bak"
+hash = "b7510efb91bfc3fdad23399904833f798b7f1d021af78934aaa45c55ee6476f8"
+
+[[files]]
+file = "config/create_central_kitchen-common-4.toml.bak"
+hash = "b7510efb91bfc3fdad23399904833f798b7f1d021af78934aaa45c55ee6476f8"
+
+[[files]]
+file = "config/create_central_kitchen-common-5.toml.bak"
+hash = "b7510efb91bfc3fdad23399904833f798b7f1d021af78934aaa45c55ee6476f8"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "b7510efb91bfc3fdad23399904833f798b7f1d021af78934aaa45c55ee6476f8"
+
+[[files]]
+file = "config/embeddium-fingerprint.json"
+hash = "f9d6d61066f0e7e97e5e80380dd4e07c01d2df96cc8cdfaf146494a0c56be397"
+
+[[files]]
+file = "config/embeddium-mixins.properties"
+hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "b78e1a745d5080dc2e50dd192982aeb59f32b1645626b77ac38a2b725ea52122"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "42218c1646bccbf913ce6cf7da387b5192ee17cef9f8fb97fff91a0ebffd8d50"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "13a11f20b305f6f975ebc35802d87c7bf22a04dc79464e41089823603b76a227"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "6c5ef17d96281e06120161c02bc3365ed55e90151cb99f8ebde9c7042e340bbb"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "e3ca99e0f233e3bcf8b6762a85b1139f716bf96644318fe9cb022c270461b287"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "8c5102d32b94fc9191800fd1597def2078ccc715eac7a6980afacd5d47c21097"
+
+[[files]]
+file = "config/fml.toml"
+hash = "953c6cb21eb0898aa077589b474b0eec19db6ed1052e5d59fe2a25cba89b4ded"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "da45a8218f254f4bda475d837df9630ab57dd709d77130469c8129f894f38396"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a9192ef0a7d0ba3eb05a8a7a33b1f001d55c433ee01d9c670c8f9c3fcac0640c"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "152043f679003c1df9fc47bf2a999d53d368354b3b066cf5c9efa8640c0b5ef8"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "cba337712ed12b05bbbe3c7a046d88cdba7c2b301f4dbcfb47cfd82e3759897e"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "30ffef1681a9b0255e65a756406f85b1cca8b0bb3c0fab357c2727e325401bd0"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "44e73ad4423c5bf0381da8e934861ac552cca4a12d4a007801cacf6eb85d12e9"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "07052785400b48d3757dbbcfff0b50899fbaed1ac54ea09bc9024ea7f73b7644"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "1d2d7921348136b3ad922df8906cf71cd0f8a67c04d4f05f52f28c2588a03041"
+
+[[files]]
+file = "config/jei/world/server/Minecraft_Server_493e58cb/bookmarks.ini"
+hash = "b19c920b0db4255b2b0ad5a1ea9b9df27624e0806b15ee0ecd3b7d63ebc52e5c"
+
+[[files]]
+file = "config/jei/world/server/My_Server_b8332793/bookmarks.ini"
+hash = "0644c61602c6000aba1163005a0b6af3e846870d7198958ff4ea8861446efb93"
+
+[[files]]
+file = "config/mafglib.json"
+hash = "a4976d6a5206a02939ee0ad164b06eb0bd0530dc5ffff42c9372327d1f5e5b64"
+
+[[files]]
+file = "config/oculus.properties"
+hash = "b520f47b0ac784f4eadeac2c1ec88f6c22aa76954c401d6fe7e32ada2e14ebed"
+
+[[files]]
+file = "config/particle_core_config.toml"
+hash = "b241a76a0aa325bbbf79c634afa28a2faab3a154323ffc78e5a21fe0831cf0c4"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations.json"
+hash = "75fc5b71df6c207879fdf6c1ba2f2c63fb770295bea1055d3d505e775be33c88"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "7508f3f5ceed80c7c606d01ee2dc93e2c72a8afa199ccb691fc5225c894d5bbd"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "fcbbbe7b2ec653da17b80dd0075afe1a57418560067d8936232d06b6dd998783"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/surveyor.toml"
+hash = "0112a38b153d64324793ad07532a112d5207e62255e22c1db175d5786b569b00"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "d9fd13a776b103b2800be81f12abf67dd4a85c6e7be9f0ba7625127e226defcd"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "ee5839616ac96374846a14d41b8964364b8857c7c711c93e0c8db69c2f5c2d36"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "mods/appleskin-forge-mc1.20.1-2.5.0.jar"
+hash = "568dcf98294a228295bb819f2d8ac27840e75870de80e78137d4c771f2a6cd4f"
+
+[[files]]
+file = "mods/bocchud.pw.toml"
+hash = "f2b137da7a07dea0647fb33334623f9b5e157a06ea2c39c3939b1104bebe4256"
+metafile = true
+
+[[files]]
+file = "mods/configurable-death.pw.toml"
+hash = "6002aa92a8a834d1198d68e6cc63a207139d56798bc2dc57836869997b616add"
+metafile = true
+
+[[files]]
+file = "mods/corpse-forge-1.20.1-1.0.12.jar"
+hash = "ecefeab9cb6da83bfb252cd116b5d0ddf30570b3ee2a91ec29ed4842846251db"
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "6a59306a96b50149cf172923c8de512a98fc1e91b662be684329385f40b9229d"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "deb0192c1fc682c17f6db3ee2eae6d2d76a46003e7b5f1ee6639d855d2a65bbe"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "1d638b73975c4a18e6cea859595f6b9f11e4b9217a29bb76b7fdfb099ecc1e2e"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "151ac2021e8e202ab3a666c65f14a73d585e20419b4dc657f25616d87251b700"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "04eff00e4383097d9809dec31ab08976a4516fd5a2fe348b88a532507f68e6ba"
+metafile = true
+
+[[files]]
+file = "mods/create_trimmed.jar"
+hash = "cf5104b5b6880ea9c9ec0e7d7fc4f1149dfcea8b052f839b86241c1558fe8675"
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0fdf262047af365220b5c871dc63dab8e78905b44d4b0536b8bb99e9719d378e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "fd35eb8e67f11aec4ae71465ac1b2d9599039d1b3efd8f463655b58f744b5a09"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "445fc568c930cbbe03f60553237902245578acd0922fa67896e2a387abc2ae2f"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
+hash = "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd"
+
+[[files]]
+file = "mods/modflared.pw.toml"
+hash = "2a164b39fb37f5d5ecbd3a697330d5815406f8b0dbd20d361bc6e3722d8c0fc1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95633b1747e86726d29593dcc285775ecafe4e9a1889a67701e24d527fed460e"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "74735952df4c37dbc3e36df80035a0a4ec4a4d56a5a622e7fa94626732fd789b"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "baa3801c6db3a574401e1a80477f79ad59c99015e7d8b7bed4ee476c0340145b"
+metafile = true
+
+[[files]]
+file = "mods/simple-login.pw.toml"
+hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "937544bffb4f08d7916ef32890587f0d414abab52a39a850ab783ad9424f5453"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ddabb3f65e240b07ae3f6b34ee1a1b5b55249f8766bb9ff4a68bd6190f914280"
