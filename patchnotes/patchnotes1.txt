@@ -1,0 +1,2 @@
+Added the patch notes menu. 
+Now you can see what's going on.
