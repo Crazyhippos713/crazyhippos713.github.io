@@ -1,0 +1,6 @@
+*CLIENT*
+Updated the main menu and added the guides, patch notes, and join server buttons.
+The panorama has been changed th fit the create mod.
+Removed unnecessary buttons and information from the main menu.
+*SERVER*
+Added YUNG's structures mod and deleted unused chunks.
