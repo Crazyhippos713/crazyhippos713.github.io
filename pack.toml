@@ -1,12 +1,12 @@
-name = "Crazyhippos713's Pack"
-author = "CH713"
-version = "0.0.3"
+name = "CH713sPack"
+author = "Crazyhippos713"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5fa70ef65da7c83c27a44615ad120b1561bbf9154a048d910994c0e0bcca4af9"
+hash = "1b6734d1daca3a1c8c26739118f4c4bb38e67e4730a91fce499b00989f3e262c"
 
 [versions]
 forge = "47.4.0"

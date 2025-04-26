@@ -1,13 +1,13 @@
 name = "Modflared"
 filename = "modflared-1.2.0+release.61.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "9289085224ee0adec0893fe3b24256c5e9b02550"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uRHq6kbO/versions/6sx0Vsi0/modflared-1.2.0%2Brelease.61.jar"
+hash-format = "sha512"
+hash = "8d795af67b8660c9c0876d5c052fb17275dbbc7c98423b87e92415f8c47e5db1464bbbdb05520e5472b6f63b55ed2e51e2059c32f41915b6573e53b525e59dbf"
 
 [update]
-[update.curseforge]
-file-id = 5371520
-project-id = 997330
+[update.modrinth]
+mod-id = "uRHq6kbO"
+version = "6sx0Vsi0"

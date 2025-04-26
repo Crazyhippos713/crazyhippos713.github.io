@@ -4,7 +4,41 @@
       0.0,
       0.0,
       0.0
-    ]
+    ],
+    "seed": -407336240000769356
   },
-  "shapes": {}
+  "shapes": {
+    "shapes": [
+      {
+        "type": "block_line",
+        "color": 1613820080,
+        "enabled": true,
+        "display_name": "Line (Blocks)",
+        "render_type": "outer_edge",
+        "layers": {
+          "mode": "ALL",
+          "axis": "y",
+          "layer_single": 0,
+          "layer_above": 0,
+          "layer_below": 0,
+          "layer_range_min": 0,
+          "layer_range_max": 0,
+          "hotkey_range_min": false,
+          "hotkey_range_max": false
+        },
+        "snap": "center",
+        "combine_quads": false,
+        "start": [
+          -3440.5,
+          -64.0,
+          1388.5
+        ],
+        "end": [
+          -3440.5,
+          320.0,
+          1388.5
+        ]
+      }
+    ]
+  }
 }

@@ -379,7 +379,7 @@
     "overlaySpawnChunkReal": false,
     "overlaySpawnChunkPlayer": false,
     "overlayStructureMainToggle": true,
-    "shapeRenderer": false,
+    "shapeRenderer": true,
     "debugChunkBorder": false,
     "debugChunkInfo": false,
     "debugChunkOcclusion": false,
