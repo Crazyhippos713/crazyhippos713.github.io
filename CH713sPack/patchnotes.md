@@ -1,7 +1,5 @@
-
-
-
-
+ 
+ 
 VERSION 0.1.0 - 1.21
 
 The game has been updated to 1.21.1. A non-shit patchnotes screen has been added (I swear I'll add a new panorama soon! Just be patient!). More preformance stuff has been added. We had to change login providers (again), but this will *hopefully* be the last time.
