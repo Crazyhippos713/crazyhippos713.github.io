@@ -1,0 +1,13 @@
+name = "Crazyhippos713s_Modpack"
+author = "Crazyhippos713"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cbd1c4ed2ac834a828cbbfc1a83ccfc3bd7c53f09c463b0bcac88e467898528b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.172"
