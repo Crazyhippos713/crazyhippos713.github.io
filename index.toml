@@ -137,12 +137,28 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "42218c1646bccbf913ce6cf7da387b5192ee17cef9f8fb97fff91a0ebffd8d50"
 
 [[files]]
+file = "config/fancymenu/assets/linux.png"
+hash = "f7c7fb836131c42a7b978f3bb6c1a25e0c4fef3e063fae8de83833f27ee89e14"
+
+[[files]]
+file = "config/fancymenu/assets/macos.png"
+hash = "33a259cf9d4a8840c5d5509daea6a8adfcc67323168a68f27b3aff43dd93f896"
+
+[[files]]
+file = "config/fancymenu/assets/windows.png"
+hash = "ce4071778a1bea13075d5e2ccafb1ab28995613cd625305ca0db757c5d334059"
+
+[[files]]
+file = "config/fancymenu/assets/wtf.png"
+hash = "efe482dad4eefcc80ef8f71eb285ae16c3598116e77b939c56987778aa9b32bd"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "3346fa7a53433ebd3175bc5df94a6989679c2d30ea694750930a11f2aa68d6e2"
+hash = "44ed319132a578df7abf4e7c39dbccc0b3d07a78ad04fbb8020ab16ac54dbaea"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "6940764d138d62fdeff5df54de5172e4ff43203fcd3d81df882a0e75bbcee3b8"
+hash = "59717148ac499aaca43bba5a0bba2dfea3ac60f75224cf98d1f97a8bcbcc2c35"
 
 [[files]]
 file = "config/fancymenu/customization/ch713_patch_notes_layout.txt"
@@ -153,20 +169,44 @@ file = "config/fancymenu/customization/create_world_screen_layout.txt"
 hash = "bc6e56b98688c604b2f867c7bead9311159f642c58d9c1fb7c2c4fed0d556dfc"
 
 [[files]]
+file = "config/fancymenu/customization/disconnected_screen_layout.txt"
+hash = "f972b733476e048b52f06dc382503970b604acf30cfdad2ab0e043e66748db75"
+
+[[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "cb1b498aa95189e4033880e8ca3613c19bad0a902dcb3445bed602ddd339c8a0"
+hash = "a87019055e6adabeee05e8d92b8379520dfce9f619ffb19f7f59a2985d925358"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "13dec471cd543363a2f46ec629177b8f18680e599b8c175c953b7a490dccdea7"
+
+[[files]]
+file = "config/fancymenu/customization/net.caffeinemc.mods.sodium.client.gui.sodiumoptionsgui_layout.txt"
+hash = "3bb87f5660344beff0903f1c471b85206e376e668d1a05378285ebdf3d6e73bb"
+
+[[files]]
+file = "config/fancymenu/customization/patchnotes_layout.txt"
+hash = "c52f35fd9232c835e669cb6422cda88b72523cae4f437fa37e0197145c038ef4"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "caeddc5637e37e3e5dccb4dd1cb15c1d1e8ecf307d91afe2df8157c7cb8925a6"
+hash = "cd2162de94184c663c90aa8985196f3ff7902277393ce1b05ef3c49e7c86e630"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
 hash = "fb9efb0a2a84a22678be1a038cab6736f5c5e65ec12117b8a998ef993d1c379e"
 
 [[files]]
+file = "config/fancymenu/customization/update_info_layout.txt"
+hash = "67cf94762bdaee9c16065adcbc5d52d79632954944515384e3b291558af79827"
+
+[[files]]
+file = "config/fancymenu/customization/updaticus_dumbassus.txt"
+hash = "e7dc331135f2e2273d0cc84c706d5243dc9978d75b236dafa56fd0a44861a616"
+
+[[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "e9ae4693ea266708dd67e4fa20bc97f4bdddc796f231261d2eb20feb7a7035cc"
+hash = "af11f181c0871582a7b192dfabe0058d5a6dd04183d990f0060465c56618147f"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -214,7 +254,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "d815bb31d32975de4b917bbfb5efeed8069d625c99997fa892504bf5b83a2aa0"
+hash = "0c6e88a9fba82741865c4e52c3e78f4161193c44832fc43597146971d411db5f"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -359,6 +399,38 @@ hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "f5eb2e076c8e3cefea4248f91128715220033375aaaa94845b1874a822d7ec48"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "49dbbf3ccd81a5ea0ea391adf66eb029996c7e75b5bbdc89bd4c484165c086b6"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "3d042ade92c6b0dbb6d0b12c332ef370ec75c1bc892bc3d12f06c575a279e2f9"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/appleskin.pw.toml"

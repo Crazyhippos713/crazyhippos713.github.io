@@ -4,11 +4,20 @@ overridden_screens {
 }
 
 custom_gui {
-  identifier = ch713_patch_notes
+  identifier = patchnotes
   title = 
   allow_esc = true
-  transparent_world_background = false
-  transparent_world_background_overlay = false
+  transparent_world_background = true
+  transparent_world_background_overlay = true
+  pause_game = true
+}
+
+custom_gui {
+  identifier = update_info
+  title = 
+  allow_esc = true
+  transparent_world_background = true
+  transparent_world_background_overlay = true
   pause_game = true
 }
 

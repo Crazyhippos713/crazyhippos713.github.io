@@ -2,7 +2,19 @@ type = user_variables
 
 variable {
   name = patch_notes_value
-  value = 2
+  value = 3
+  reset_on_launch = false
+}
+
+variable {
+  name = joinserverbuttonclicked
+  value = 
   reset_on_launch = true
+}
+
+variable {
+  name = update_link
+  value = https://github.com/Crazyhippos713/crazyhippos713.github.io/releases/download/updater1211/CH713sPack.1.21.1.zip
+  reset_on_launch = false
 }
 
